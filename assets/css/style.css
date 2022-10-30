@@ -463,7 +463,7 @@ h6,
 
   #hero::before {
     top: 0;
-    width: 180%;
+    width: 130%;
     height: 94%;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) translateY(20px) rotate(4deg);
@@ -478,7 +478,7 @@ h6,
   #hero::after {
     left: 40%;
     top: 0;
-    width: 200%;
+    width: 130%;
     height: 95%;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
